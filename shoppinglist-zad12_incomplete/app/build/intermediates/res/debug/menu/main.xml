@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_item_add_product"
+          android:title="@string/add_product"
+          android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/menu_item_remove_bought"
+          android:title="@string/remove_bought_action"
+          android:showAsAction="never"/>
+
+</menu><!-- From: file:/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/menu/main.xml -->

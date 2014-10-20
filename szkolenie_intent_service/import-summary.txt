@@ -1,0 +1,71 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/uiDesigner.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* ant.properties
+* build.xml
+* out/
+* out/production/
+* out/production/szkolenie_intent_service/
+* out/production/szkolenie_intent_service/com/
+* out/production/szkolenie_intent_service/com/example/
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/BuildConfig.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/FileDownloader.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/MyActivity$1.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/MyActivity$FileDownloadTask.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/MyActivity.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R$attr.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R$drawable.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R$id.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R$layout.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R$string.class
+* out/production/szkolenie_intent_service/com/example/szkolenie_intent_service/R.class
+* out/production/szkolenie_intent_service/szkolenie_intent_service.apk
+* out/production/szkolenie_intent_service/szkolenie_intent_service.unaligned.apk
+* proguard-project.txt
+* szkolenie_intent_service.iml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

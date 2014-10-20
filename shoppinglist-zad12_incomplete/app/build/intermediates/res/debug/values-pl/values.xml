@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment />
+
+    <string name="add_product">Dodaj produkt</string>
+    <string name="app_name">Lista zakupów</string>
+    <string name="no_products">Brak produktów</string>
+    <string name="product_name_hint">Nazwa produktu</string>
+    <string name="remove_bought_action">Usuń kupione</string>
+
+</resources>

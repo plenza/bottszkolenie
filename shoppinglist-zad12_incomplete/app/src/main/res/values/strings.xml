@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="no_products">No products</string>
+    <string name="product_name_hint">Product name</string>
+    <string name="add_product">Add product</string>
+    <string name="remove_bought_action">Remove bought</string>
+</resources>

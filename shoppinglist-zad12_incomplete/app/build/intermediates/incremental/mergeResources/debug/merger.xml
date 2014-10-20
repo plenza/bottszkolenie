@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="no_products" >No products
+                </string>
+                <string name="remove_bought_action" >Remove bought
+                </string>
+                <string name="product_name_hint" >Product name
+                </string>
+                <string name="add_product" >Add product
+                </string>
+                <string name="app_name" >Shopping List
+                </string>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="add_product_activity"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/layout/add_product_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_list_row"
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/layout/product_list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/main/res/values-pl/strings.xml"
+                qualifiers="pl" >
+                <string name="no_products" >Brak produktów
+                </string>
+                <string name="remove_bought_action" >Usuń kupione
+                </string>
+                <string name="app_name" >Lista zakupów
+                </string>
+                <string name="add_product" >Dodaj produkt
+                </string>
+                <string name="product_name_hint" >Nazwa produktu
+                </string>
+            </file>
+        </source>
+        <source path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/build/generated/res/rs/debug" />
+        <source path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/plenza/projects/android/shoppinglist-zad12_incomplete/app/src/debug/res" />
+    </dataSet>
+
+</merger>
